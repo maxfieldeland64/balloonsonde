@@ -1,0 +1,16 @@
+item,qty,unit_usd,source,status,notes
+Raspberry Pi Pico RP2040 2-pack (pre-soldered headers + USB-C cable),1,13.79,Amazon,in cart,One flies and one is the ground receiver. Alt: EC Buying 2-pack $14.59 (no headers micro-USB).
+REYAX RYLR896 LoRa module (915 MHz UART),2,16.50,Amazon,in cart,One on the sonde and one on the ground. Set AT+BAND=915000000.
+HiLetgo GY-NEO6MV2 NEO-6M GPS with ceramic patch antenna,1,8.99,Amazon,in cart,Must pass airborne-mode (dynModel 6) readback test. Backup: GY-GPSV3 NEO-M8N $17.07.
+AITRIP GY-BME280 3.3V (3-pack),1,18.99,Amazon,in cart,Check chip ID 0x60 (BME280) not 0x58 (BMP280).
+LampVPath 2xAA battery holder with switch (pack of 2),1,4.99,Amazon,in cart,Red to VSYS and black to GND.
+Energizer Ultimate Lithium AA (4-pack),1,11.25,TBD,to buy,Lithium for cold performance. Not alkaline.
+ALLECIN 58pc perfboard + header + terminal kit,1,13.99,Amazon,in cart,Use ~50x70 mm board.
+ENERJOUR 22 AWG silicone wire 6-color kit (with stripper/heat shrink/zip ties),1,15.59,Amazon,in cart,
+YIHUA 926 III soldering station kit (with helping hands),1,43.99,Amazon,in cart,Reusable tool. Includes lead-free solder.
+Weather balloon 300 g (120 inch),1,29.99,Amazon,in cart,Verify latex and burst diameter in listing.
+Helium cylinder rental,1,40.00,Local,to buy,Estimate. Need ~0.7 m3 (about 25 cu ft).
+Parachute (small ripstop),1,,TBD,to buy,
+Cord 20-30 lb test,1,,TBD,to buy,Must separate under 50 lb force (FAA Part 101).
+Foam cup or small box + foil + tape,1,,TBD,to buy,
+Kitchen scale + hanging scale,1,,TBD,to buy,Weigh payload and measure neck lift.
