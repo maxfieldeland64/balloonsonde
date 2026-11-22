@@ -2,7 +2,7 @@
 
 ## Milestones
 
-- [ ] **M0 Parts:** order and receive all parts (see `hardware/bom.csv`).
+- [x] **M0 Parts:** order and receive all parts (see `hardware/bom.csv`).
 - [ ] **M1 Hello hardware:** flash MicroPython, read the BME280, read raw NMEA from the GPS, send an AT command to the radio.
 - [ ] **M2 Link:** sonde sends test frames, ground receives and validates them.
 - [ ] **M3 Firmware v1:** all requirements in [firmware-spec.md](firmware-spec.md), unit tests passing, replay test passing.
