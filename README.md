@@ -2,7 +2,7 @@
 
 A cheap, simple, license-free DIY weather balloon radiosonde. It measures temperature, humidity, pressure and GPS position on the way up and down, sends it to the ground over 915 MHz LoRa, and logs everything onboard. The goal is science-quality profiles you can compare against model output (HRRR, IFS).
 
-**Status:** planning and parts ordered. No firmware written yet. See [docs/roadmap.md](docs/roadmap.md).
+**Status:** parts received. M1 bring-up scripts written; flight firmware not written yet. See [docs/roadmap.md](docs/roadmap.md).
 
 ## Goals
 
@@ -49,6 +49,7 @@ flowchart LR
 | `docs/telemetry-protocol.md` | Radio settings and packet format |
 | `docs/ground-station-spec.md` | Receiver firmware and host software |
 | `docs/data-pipeline-spec.md` | QC, derived variables, model comparison |
+| `docs/m1-hello-hardware.md` | First bring-up: flash MicroPython and test each part |
 | `docs/test-plan.md` | Staged tests with pass/fail criteria |
 | `docs/flight-ops.md` | Lift calculation, fill, launch checklist, recovery |
 | `docs/roadmap.md` | Milestones and open questions |
